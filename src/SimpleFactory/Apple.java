@@ -1,3 +1,4 @@
+package SimpleFactory;
 
 public class Apple implements Fruit{
 	public void get() {
